@@ -1,0 +1,1151 @@
+Starting Host Utilization Example ...
+Initialising...
+Starting CloudSim version 3.0
+DataCenter_0 is starting...
+DataCenter_1 is starting...
+MainBroker is starting...
+Entities started.
+0.0: MainBroker: Cloud Resource List received with 2 resource(s)
+0.0: MainBroker: Trying to Create VM #0 in DataCenter_0
+0.0: MainBroker: Trying to Create VM #1 in DataCenter_0
+0.0: MainBroker: Trying to Create VM #2 in DataCenter_0
+0.0: MainBroker: Trying to Create VM #3 in DataCenter_0
+0.0: MainBroker: Trying to Create VM #4 in DataCenter_0
+0.0: MainBroker: Trying to Create VM #5 in DataCenter_0
+0.0: MainBroker: Trying to Create VM #6 in DataCenter_0
+0.0: MainBroker: Trying to Create VM #7 in DataCenter_0
+0.0: MainBroker: Trying to Create VM #8 in DataCenter_0
+0.0: MainBroker: Trying to Create VM #9 in DataCenter_0
+0.0: MainBroker: Trying to Create VM #10 in DataCenter_0
+0.0: MainBroker: Trying to Create VM #11 in DataCenter_0
+0.0: MainBroker: Trying to Create VM #12 in DataCenter_0
+0.0: MainBroker: Trying to Create VM #13 in DataCenter_0
+0.0: MainBroker: Trying to Create VM #14 in DataCenter_0
+0.00: VM #0 has been allocated to the host #0
+0.00: VM #1 has been allocated to the host #0
+0.00: VM #2 has been allocated to the host #0
+0.00: VM #3 has been allocated to the host #0
+0.00: VM #4 has been allocated to the host #0
+0.00: VM #5 has been allocated to the host #1
+0.00: VM #6 has been allocated to the host #1
+0.00: VM #7 has been allocated to the host #1
+0.00: VM #8 has been allocated to the host #1
+0.00: VM #9 has been allocated to the host #1
+0.00: VM #10 has been allocated to the host #2
+0.00: VM #11 has been allocated to the host #2
+0.00: VM #12 has been allocated to the host #2
+0.00: VM #13 has been allocated to the host #2
+0.00: VM #14 has been allocated to the host #2
+0.1: MainBroker: VM #0 has been created in Datacenter #2, Host #0
+0.1: MainBroker: VM #1 has been created in Datacenter #2, Host #0
+0.1: MainBroker: VM #2 has been created in Datacenter #2, Host #0
+0.1: MainBroker: VM #3 has been created in Datacenter #2, Host #0
+0.1: MainBroker: VM #4 has been created in Datacenter #2, Host #0
+0.1: MainBroker: VM #5 has been created in Datacenter #2, Host #1
+0.1: MainBroker: VM #6 has been created in Datacenter #2, Host #1
+0.1: MainBroker: VM #7 has been created in Datacenter #2, Host #1
+0.1: MainBroker: VM #8 has been created in Datacenter #2, Host #1
+0.1: MainBroker: VM #9 has been created in Datacenter #2, Host #1
+0.1: MainBroker: VM #10 has been created in Datacenter #2, Host #2
+0.1: MainBroker: VM #11 has been created in Datacenter #2, Host #2
+0.1: MainBroker: VM #12 has been created in Datacenter #2, Host #2
+0.1: MainBroker: VM #13 has been created in Datacenter #2, Host #2
+0.1: MainBroker: VM #14 has been created in Datacenter #2, Host #2
+0.1: MainBroker: Sending cloudlet 0 to VM #0
+0.1: MainBroker: Sending cloudlet 1 to VM #1
+0.1: MainBroker: Sending cloudlet 2 to VM #2
+0.1: MainBroker: Sending cloudlet 3 to VM #3
+0.1: MainBroker: Sending cloudlet 4 to VM #4
+0.1: MainBroker: Sending cloudlet 5 to VM #5
+0.1: MainBroker: Sending cloudlet 6 to VM #6
+0.1: MainBroker: Sending cloudlet 7 to VM #7
+0.1: MainBroker: Sending cloudlet 8 to VM #8
+0.1: MainBroker: Sending cloudlet 9 to VM #9
+0.1: MainBroker: Sending cloudlet 10 to VM #10
+0.1: MainBroker: Sending cloudlet 11 to VM #11
+0.1: MainBroker: Sending cloudlet 12 to VM #12
+0.1: MainBroker: Sending cloudlet 13 to VM #13
+0.1: MainBroker: Sending cloudlet 14 to VM #14
+0.1: MainBroker: Sending cloudlet 15 to VM #0
+0.1: MainBroker: Sending cloudlet 16 to VM #1
+0.1: MainBroker: Sending cloudlet 17 to VM #2
+0.1: MainBroker: Sending cloudlet 18 to VM #3
+0.1: MainBroker: Sending cloudlet 19 to VM #4
+0.1: MainBroker: Sending cloudlet 20 to VM #5
+0.1: MainBroker: Sending cloudlet 21 to VM #6
+0.1: MainBroker: Sending cloudlet 22 to VM #7
+0.1: MainBroker: Sending cloudlet 23 to VM #8
+0.1: MainBroker: Sending cloudlet 24 to VM #9
+0.1: MainBroker: Sending cloudlet 25 to VM #10
+0.1: MainBroker: Sending cloudlet 26 to VM #11
+0.1: MainBroker: Sending cloudlet 27 to VM #12
+0.1: MainBroker: Sending cloudlet 28 to VM #13
+0.1: MainBroker: Sending cloudlet 29 to VM #14
+0.1: MainBroker: Sending cloudlet 30 to VM #0
+0.1: MainBroker: Sending cloudlet 31 to VM #1
+0.1: MainBroker: Sending cloudlet 32 to VM #2
+0.1: MainBroker: Sending cloudlet 33 to VM #3
+0.1: MainBroker: Sending cloudlet 34 to VM #4
+0.1: MainBroker: Sending cloudlet 35 to VM #5
+0.1: MainBroker: Sending cloudlet 36 to VM #6
+0.1: MainBroker: Sending cloudlet 37 to VM #7
+0.1: MainBroker: Sending cloudlet 38 to VM #8
+0.1: MainBroker: Sending cloudlet 39 to VM #9
+0.1: MainBroker: Sending cloudlet 40 to VM #10
+0.1: MainBroker: Sending cloudlet 41 to VM #11
+0.1: MainBroker: Sending cloudlet 42 to VM #12
+0.1: MainBroker: Sending cloudlet 43 to VM #13
+0.1: MainBroker: Sending cloudlet 44 to VM #14
+0.1: MainBroker: Sending cloudlet 45 to VM #0
+0.1: MainBroker: Sending cloudlet 46 to VM #1
+0.1: MainBroker: Sending cloudlet 47 to VM #2
+0.1: MainBroker: Sending cloudlet 48 to VM #3
+0.1: MainBroker: Sending cloudlet 49 to VM #4
+0.1: MainBroker: Sending cloudlet 50 to VM #5
+0.1: MainBroker: Sending cloudlet 51 to VM #6
+0.1: MainBroker: Sending cloudlet 52 to VM #7
+0.1: MainBroker: Sending cloudlet 53 to VM #8
+0.1: MainBroker: Sending cloudlet 54 to VM #9
+0.1: MainBroker: Sending cloudlet 55 to VM #10
+0.1: MainBroker: Sending cloudlet 56 to VM #11
+0.1: MainBroker: Sending cloudlet 57 to VM #12
+0.1: MainBroker: Sending cloudlet 58 to VM #13
+0.1: MainBroker: Sending cloudlet 59 to VM #14
+0.1: MainBroker: Sending cloudlet 60 to VM #0
+0.1: MainBroker: Sending cloudlet 61 to VM #1
+0.1: MainBroker: Sending cloudlet 62 to VM #2
+0.1: MainBroker: Sending cloudlet 63 to VM #3
+0.1: MainBroker: Sending cloudlet 64 to VM #4
+0.1: MainBroker: Sending cloudlet 65 to VM #5
+0.1: MainBroker: Sending cloudlet 66 to VM #6
+0.1: MainBroker: Sending cloudlet 67 to VM #7
+0.1: MainBroker: Sending cloudlet 68 to VM #8
+0.1: MainBroker: Sending cloudlet 69 to VM #9
+0.1: MainBroker: Sending cloudlet 70 to VM #10
+0.1: MainBroker: Sending cloudlet 71 to VM #11
+0.1: MainBroker: Sending cloudlet 72 to VM #12
+0.1: MainBroker: Sending cloudlet 73 to VM #13
+0.1: MainBroker: Sending cloudlet 74 to VM #14
+0.1: MainBroker: Sending cloudlet 75 to VM #0
+0.1: MainBroker: Sending cloudlet 76 to VM #1
+0.1: MainBroker: Sending cloudlet 77 to VM #2
+0.1: MainBroker: Sending cloudlet 78 to VM #3
+0.1: MainBroker: Sending cloudlet 79 to VM #4
+0.1: MainBroker: Sending cloudlet 80 to VM #5
+0.1: MainBroker: Sending cloudlet 81 to VM #6
+0.1: MainBroker: Sending cloudlet 82 to VM #7
+0.1: MainBroker: Sending cloudlet 83 to VM #8
+0.1: MainBroker: Sending cloudlet 84 to VM #9
+0.1: MainBroker: Sending cloudlet 85 to VM #10
+0.1: MainBroker: Sending cloudlet 86 to VM #11
+0.1: MainBroker: Sending cloudlet 87 to VM #12
+0.1: MainBroker: Sending cloudlet 88 to VM #13
+0.1: MainBroker: Sending cloudlet 89 to VM #14
+0.1: MainBroker: Sending cloudlet 90 to VM #0
+0.1: MainBroker: Sending cloudlet 91 to VM #1
+0.1: MainBroker: Sending cloudlet 92 to VM #2
+0.1: MainBroker: Sending cloudlet 93 to VM #3
+0.1: MainBroker: Sending cloudlet 94 to VM #4
+0.1: MainBroker: Sending cloudlet 95 to VM #5
+0.1: MainBroker: Sending cloudlet 96 to VM #6
+0.1: MainBroker: Sending cloudlet 97 to VM #7
+0.1: MainBroker: Sending cloudlet 98 to VM #8
+0.1: MainBroker: Sending cloudlet 99 to VM #9
+15.1 
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 15.10:
+
+15.10: [Host #0] Total allocated MIPS for VM #0 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #0] MIPS for VM #0 by PEs (5 * 1000.0). PE #0: 1000.00.
+15.10: [Host #0] Total allocated MIPS for VM #1 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #0] MIPS for VM #1 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+15.10: [Host #0] Total allocated MIPS for VM #2 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #0] MIPS for VM #2 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+15.10: [Host #0] Total allocated MIPS for VM #3 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #0] MIPS for VM #3 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+15.10: [Host #0] Total allocated MIPS for VM #4 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #0] MIPS for VM #4 by PEs (5 * 1000.0). PE #3: 0.00. PE #4: 1000.00.
+
+=============================================
+| 15.10: [Host #0] utilization is 100.00%    |
+=============================================
+
+15.10: [Host #1] Total allocated MIPS for VM #5 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #1] MIPS for VM #5 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+15.10: [Host #1] Total allocated MIPS for VM #6 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #1] MIPS for VM #6 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+15.10: [Host #1] Total allocated MIPS for VM #7 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #1] MIPS for VM #7 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+15.10: [Host #1] Total allocated MIPS for VM #8 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #1] MIPS for VM #8 by PEs (5 * 1000.0). PE #3: 0.00. PE #4: 1000.00.
+15.10: [Host #1] Total allocated MIPS for VM #9 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #1] MIPS for VM #9 by PEs (5 * 1000.0). PE #0: 1000.00.
+
+=============================================
+| 15.10: [Host #1] utilization is 100.00%    |
+=============================================
+
+15.10: [Host #2] Total allocated MIPS for VM #10 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #2] MIPS for VM #10 by PEs (5 * 1000.0). PE #0: 1000.00.
+15.10: [Host #2] Total allocated MIPS for VM #11 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #2] MIPS for VM #11 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+15.10: [Host #2] Total allocated MIPS for VM #12 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #2] MIPS for VM #12 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+15.10: [Host #2] Total allocated MIPS for VM #13 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #2] MIPS for VM #13 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+15.10: [Host #2] Total allocated MIPS for VM #14 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #2] MIPS for VM #14 by PEs (5 * 1000.0). PE #3: 0.00. PE #4: 1000.00.
+
+=============================================
+| 15.10: [Host #2] utilization is 100.00%    |
+=============================================
+
+
+=============================================
+| 15.10: [Host #3] utilization is 0.00%    |
+=============================================
+
+Energy consumption for the last time frame from 0.00 to 15.10:
+
+15.10: [Host #0] utilization at 0.00 was 0.00%, now is 100.00%
+15.10: [Host #0] energy is 0.00 W*sec
+
+15.10: [Host #1] utilization at 0.00 was 0.00%, now is 100.00%
+15.10: [Host #1] energy is 0.00 W*sec
+
+15.10: [Host #2] utilization at 0.00 was 0.00%, now is 100.00%
+15.10: [Host #2] energy is 0.00 W*sec
+
+15.10: [Host #3] utilization at 0.00 was 0.00%, now is 0.00%
+15.10: [Host #3] energy is 0.00 W*sec
+
+15.10: Data center's energy is 0.00 W*sec
+
+
+15.10: Migration of VM #10 from Host #2 to Host #3 is started
+15.10: [Host #3] Total allocated MIPS for VM #10 (Host #2) is 10.00, was requested 100.00 out of total 1000.00 (10.00%)
+15.10: [Host #3] MIPS for VM #10 by PEs (5 * 1000.0). PE #0: 10.00.
+15.10: [Host #3] VM #10 is being migrated to Host #3
+15.10: [Host #2] Total allocated MIPS for VM #10 (Host #2) is 900.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #2] MIPS for VM #10 by PEs (5 * 1000.0). PE #0: 900.00.
+15.10: [Host #2] Under allocated MIPS for VM #10: 100.00
+15.10: [Host #2] VM #10 is in migration
+15.10: [Host #2] Total allocated MIPS for VM #11 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #2] MIPS for VM #11 by PEs (5 * 1000.0). PE #0: 100.00. PE #1: 900.00.
+15.10: [Host #2] Total allocated MIPS for VM #12 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #2] MIPS for VM #12 by PEs (5 * 1000.0). PE #1: 100.00. PE #2: 900.00.
+15.10: [Host #2] Total allocated MIPS for VM #13 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #2] MIPS for VM #13 by PEs (5 * 1000.0). PE #2: 100.00. PE #3: 900.00.
+15.10: [Host #2] Total allocated MIPS for VM #14 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+15.10: [Host #2] MIPS for VM #14 by PEs (5 * 1000.0). PE #3: 100.00. PE #4: 900.00.
+15.1: MainBroker: Cloudlet 0 received
+15.1: MainBroker: Cloudlet 1 received
+15.1: MainBroker: Cloudlet 2 received
+15.1: MainBroker: Cloudlet 3 received
+15.1: MainBroker: Cloudlet 4 received
+15.1: MainBroker: Cloudlet 5 received
+15.1: MainBroker: Cloudlet 6 received
+15.1: MainBroker: Cloudlet 7 received
+15.1: MainBroker: Cloudlet 8 received
+15.1: MainBroker: Cloudlet 9 received
+15.1: MainBroker: Cloudlet 10 received
+15.1: MainBroker: Cloudlet 11 received
+15.1: MainBroker: Cloudlet 12 received
+15.1: MainBroker: Cloudlet 13 received
+15.1: MainBroker: Cloudlet 14 received
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 23.29:
+
+23.29: [Host #0] Total allocated MIPS for VM #0 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #0] MIPS for VM #0 by PEs (5 * 1000.0). PE #0: 1000.00.
+23.29: [Host #0] Total allocated MIPS for VM #1 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #0] MIPS for VM #1 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+23.29: [Host #0] Total allocated MIPS for VM #2 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #0] MIPS for VM #2 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+23.29: [Host #0] Total allocated MIPS for VM #3 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #0] MIPS for VM #3 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+23.29: [Host #0] Total allocated MIPS for VM #4 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #0] MIPS for VM #4 by PEs (5 * 1000.0). PE #3: 0.00. PE #4: 1000.00.
+
+=============================================
+| 23.29: [Host #0] utilization is 100.00%    |
+=============================================
+
+23.29: [Host #1] Total allocated MIPS for VM #5 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #1] MIPS for VM #5 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+23.29: [Host #1] Total allocated MIPS for VM #6 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #1] MIPS for VM #6 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+23.29: [Host #1] Total allocated MIPS for VM #7 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #1] MIPS for VM #7 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+23.29: [Host #1] Total allocated MIPS for VM #8 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #1] MIPS for VM #8 by PEs (5 * 1000.0). PE #3: 0.00. PE #4: 1000.00.
+23.29: [Host #1] Total allocated MIPS for VM #9 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #1] MIPS for VM #9 by PEs (5 * 1000.0). PE #0: 1000.00.
+
+=============================================
+| 23.29: [Host #1] utilization is 100.00%    |
+=============================================
+
+23.29: [Host #2] Total allocated MIPS for VM #10 (Host #2) is 810.00, was requested 900.00 out of total 1000.00 (90.00%)
+23.29: [Host #2] MIPS for VM #10 by PEs (5 * 1000.0). PE #0: 810.00.
+23.29: [Host #2] Under allocated MIPS for VM #10: 90.00
+23.29: [Host #2] VM #10 is in migration
+23.29: [Host #2] Total allocated MIPS for VM #11 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #2] MIPS for VM #11 by PEs (5 * 1000.0). PE #0: 190.00. PE #1: 810.00.
+23.29: [Host #2] Total allocated MIPS for VM #12 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #2] MIPS for VM #12 by PEs (5 * 1000.0). PE #1: 190.00. PE #2: 810.00.
+23.29: [Host #2] Total allocated MIPS for VM #13 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #2] MIPS for VM #13 by PEs (5 * 1000.0). PE #2: 190.00. PE #3: 810.00.
+23.29: [Host #2] Total allocated MIPS for VM #14 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #2] MIPS for VM #14 by PEs (5 * 1000.0). PE #3: 190.00. PE #4: 810.00.
+
+=============================================
+| 23.29: [Host #2] utilization is 98.00%    |
+=============================================
+
+23.29: [Host #3] Total allocated MIPS for VM #10 (Host #2) is 1.00, was requested 10.00 out of total 1000.00 (1.00%)
+23.29: [Host #3] MIPS for VM #10 by PEs (5 * 1000.0). PE #0: 1.00.
+23.29: [Host #3] VM #10 is being migrated to Host #3
+
+=============================================
+| 23.29: [Host #3] utilization is 0.02%    |
+=============================================
+
+Energy consumption for the last time frame from 15.10 to 23.29:
+
+23.29: [Host #0] utilization at 15.10 was 100.00%, now is 100.00%
+23.29: [Host #0] energy is 958.46 W*sec
+
+23.29: [Host #1] utilization at 15.10 was 100.00%, now is 100.00%
+23.29: [Host #1] energy is 958.46 W*sec
+
+23.29: [Host #2] utilization at 15.10 was 100.00%, now is 98.00%
+23.29: [Host #2] energy is 1428.11 W*sec
+
+23.29: [Host #3] utilization at 15.10 was 0.20%, now is 0.02%
+23.29: [Host #3] energy is 47871.54 W*sec
+
+23.29: Data center's energy is 51216.58 W*sec
+
+
+23.29: VM #10 has been allocated to the host #3
+23.29: Migration of VM #10 to Host #3 is completed
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 23.29:
+
+23.29: [Host #0] Total allocated MIPS for VM #0 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #0] MIPS for VM #0 by PEs (5 * 1000.0). PE #0: 1000.00.
+23.29: [Host #0] Total allocated MIPS for VM #1 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #0] MIPS for VM #1 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+23.29: [Host #0] Total allocated MIPS for VM #2 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #0] MIPS for VM #2 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+23.29: [Host #0] Total allocated MIPS for VM #3 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #0] MIPS for VM #3 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+23.29: [Host #0] Total allocated MIPS for VM #4 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #0] MIPS for VM #4 by PEs (5 * 1000.0). PE #3: 0.00. PE #4: 1000.00.
+
+=============================================
+| 23.29: [Host #0] utilization is 100.00%    |
+=============================================
+
+23.29: [Host #1] Total allocated MIPS for VM #5 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #1] MIPS for VM #5 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+23.29: [Host #1] Total allocated MIPS for VM #6 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #1] MIPS for VM #6 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+23.29: [Host #1] Total allocated MIPS for VM #7 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #1] MIPS for VM #7 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+23.29: [Host #1] Total allocated MIPS for VM #8 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #1] MIPS for VM #8 by PEs (5 * 1000.0). PE #3: 0.00. PE #4: 1000.00.
+23.29: [Host #1] Total allocated MIPS for VM #9 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #1] MIPS for VM #9 by PEs (5 * 1000.0). PE #0: 1000.00.
+
+=============================================
+| 23.29: [Host #1] utilization is 100.00%    |
+=============================================
+
+23.29: [Host #2] Total allocated MIPS for VM #11 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #2] MIPS for VM #11 by PEs (5 * 1000.0). PE #0: 1000.00.
+23.29: [Host #2] Total allocated MIPS for VM #12 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #2] MIPS for VM #12 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+23.29: [Host #2] Total allocated MIPS for VM #13 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #2] MIPS for VM #13 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+23.29: [Host #2] Total allocated MIPS for VM #14 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #2] MIPS for VM #14 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+
+=============================================
+| 23.29: [Host #2] utilization is 80.00%    |
+=============================================
+
+23.29: [Host #3] Total allocated MIPS for VM #10 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+23.29: [Host #3] MIPS for VM #10 by PEs (5 * 1000.0). PE #0: 1000.00.
+
+=============================================
+| 23.29: [Host #3] utilization is 20.00%    |
+=============================================
+
+23.292: MainBroker: Cloudlet 15 received
+23.292: MainBroker: Cloudlet 16 received
+23.292: MainBroker: Cloudlet 17 received
+23.292: MainBroker: Cloudlet 18 received
+23.292: MainBroker: Cloudlet 19 received
+23.292: MainBroker: Cloudlet 20 received
+23.292: MainBroker: Cloudlet 21 received
+23.292: MainBroker: Cloudlet 22 received
+23.292: MainBroker: Cloudlet 23 received
+23.292: MainBroker: Cloudlet 24 received
+23.292: MainBroker: Cloudlet 25 received
+23.292: MainBroker: Cloudlet 26 received
+23.292: MainBroker: Cloudlet 27 received
+23.292: MainBroker: Cloudlet 28 received
+23.292: MainBroker: Cloudlet 29 received
+30.1 
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 30.10:
+
+30.10: [Host #0] Total allocated MIPS for VM #0 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #0] MIPS for VM #0 by PEs (5 * 1000.0). PE #0: 1000.00.
+30.10: [Host #0] Total allocated MIPS for VM #1 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #0] MIPS for VM #1 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+30.10: [Host #0] Total allocated MIPS for VM #2 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #0] MIPS for VM #2 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+30.10: [Host #0] Total allocated MIPS for VM #3 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #0] MIPS for VM #3 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+30.10: [Host #0] Total allocated MIPS for VM #4 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #0] MIPS for VM #4 by PEs (5 * 1000.0). PE #3: 0.00. PE #4: 1000.00.
+
+=============================================
+| 30.10: [Host #0] utilization is 100.00%    |
+=============================================
+
+30.10: [Host #1] Total allocated MIPS for VM #5 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #1] MIPS for VM #5 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+30.10: [Host #1] Total allocated MIPS for VM #6 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #1] MIPS for VM #6 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+30.10: [Host #1] Total allocated MIPS for VM #7 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #1] MIPS for VM #7 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+30.10: [Host #1] Total allocated MIPS for VM #8 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #1] MIPS for VM #8 by PEs (5 * 1000.0). PE #3: 0.00. PE #4: 1000.00.
+30.10: [Host #1] Total allocated MIPS for VM #9 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #1] MIPS for VM #9 by PEs (5 * 1000.0). PE #0: 1000.00.
+
+=============================================
+| 30.10: [Host #1] utilization is 100.00%    |
+=============================================
+
+30.10: [Host #2] Total allocated MIPS for VM #11 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #2] MIPS for VM #11 by PEs (5 * 1000.0). PE #0: 1000.00.
+30.10: [Host #2] Total allocated MIPS for VM #12 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #2] MIPS for VM #12 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+30.10: [Host #2] Total allocated MIPS for VM #13 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #2] MIPS for VM #13 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+30.10: [Host #2] Total allocated MIPS for VM #14 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #2] MIPS for VM #14 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+
+=============================================
+| 30.10: [Host #2] utilization is 80.00%    |
+=============================================
+
+30.10: [Host #3] Total allocated MIPS for VM #10 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #3] MIPS for VM #10 by PEs (5 * 1000.0). PE #0: 1000.00.
+
+=============================================
+| 30.10: [Host #3] utilization is 20.00%    |
+=============================================
+
+Energy consumption for the last time frame from 23.29 to 30.10:
+
+30.10: [Host #0] utilization at 23.29 was 100.00%, now is 100.00%
+30.10: [Host #0] energy is 796.54 W*sec
+
+30.10: [Host #1] utilization at 23.29 was 100.00%, now is 100.00%
+30.10: [Host #1] energy is 796.54 W*sec
+
+30.10: [Host #2] utilization at 23.29 was 80.00%, now is 80.00%
+30.10: [Host #2] energy is 8602.59 W*sec
+
+30.10: [Host #3] utilization at 23.29 was 20.00%, now is 20.00%
+30.10: [Host #3] energy is 32020.75 W*sec
+
+30.10: Data center's energy is 42216.41 W*sec
+
+
+30.10: Migration of VM #5 from Host #1 to Host #3 is started
+30.10: [Host #3] Total allocated MIPS for VM #10 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #3] MIPS for VM #10 by PEs (5 * 1000.0). PE #0: 1000.00.
+30.10: [Host #3] Total allocated MIPS for VM #5 (Host #1) is 10.00, was requested 100.00 out of total 1000.00 (10.00%)
+30.10: [Host #3] MIPS for VM #5 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 10.00.
+30.10: [Host #3] VM #5 is being migrated to Host #3
+30.10: [Host #1] Total allocated MIPS for VM #5 (Host #1) is 900.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #1] MIPS for VM #5 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 900.00.
+30.10: [Host #1] Under allocated MIPS for VM #5: 100.00
+30.10: [Host #1] VM #5 is in migration
+30.10: [Host #1] Total allocated MIPS for VM #6 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #1] MIPS for VM #6 by PEs (5 * 1000.0). PE #1: 100.00. PE #2: 900.00.
+30.10: [Host #1] Total allocated MIPS for VM #7 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #1] MIPS for VM #7 by PEs (5 * 1000.0). PE #2: 100.00. PE #3: 900.00.
+30.10: [Host #1] Total allocated MIPS for VM #8 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #1] MIPS for VM #8 by PEs (5 * 1000.0). PE #3: 100.00. PE #4: 900.00.
+30.10: [Host #1] Total allocated MIPS for VM #9 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+30.10: [Host #1] MIPS for VM #9 by PEs (5 * 1000.0). PE #0: 1000.00.
+30.1: MainBroker: Cloudlet 30 received
+30.1: MainBroker: Cloudlet 31 received
+30.1: MainBroker: Cloudlet 32 received
+30.1: MainBroker: Cloudlet 33 received
+30.1: MainBroker: Cloudlet 34 received
+30.1: MainBroker: Cloudlet 35 received
+30.1: MainBroker: Cloudlet 36 received
+30.1: MainBroker: Cloudlet 37 received
+30.1: MainBroker: Cloudlet 38 received
+30.1: MainBroker: Cloudlet 39 received
+30.1: MainBroker: Cloudlet 41 received
+30.1: MainBroker: Cloudlet 42 received
+30.1: MainBroker: Cloudlet 43 received
+30.1: MainBroker: Cloudlet 44 received
+30.1: MainBroker: Cloudlet 40 received
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 38.29:
+
+38.29: [Host #0] Total allocated MIPS for VM #0 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #0] MIPS for VM #0 by PEs (5 * 1000.0). PE #0: 1000.00.
+38.29: [Host #0] Total allocated MIPS for VM #1 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #0] MIPS for VM #1 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+38.29: [Host #0] Total allocated MIPS for VM #2 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #0] MIPS for VM #2 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+38.29: [Host #0] Total allocated MIPS for VM #3 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #0] MIPS for VM #3 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+38.29: [Host #0] Total allocated MIPS for VM #4 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #0] MIPS for VM #4 by PEs (5 * 1000.0). PE #3: 0.00. PE #4: 1000.00.
+
+=============================================
+| 38.29: [Host #0] utilization is 100.00%    |
+=============================================
+
+38.29: [Host #1] Total allocated MIPS for VM #5 (Host #1) is 810.00, was requested 900.00 out of total 1000.00 (90.00%)
+38.29: [Host #1] MIPS for VM #5 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 810.00.
+38.29: [Host #1] Under allocated MIPS for VM #5: 90.00
+38.29: [Host #1] VM #5 is in migration
+38.29: [Host #1] Total allocated MIPS for VM #6 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #1] MIPS for VM #6 by PEs (5 * 1000.0). PE #1: 190.00. PE #2: 810.00.
+38.29: [Host #1] Total allocated MIPS for VM #7 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #1] MIPS for VM #7 by PEs (5 * 1000.0). PE #2: 190.00. PE #3: 810.00.
+38.29: [Host #1] Total allocated MIPS for VM #8 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #1] MIPS for VM #8 by PEs (5 * 1000.0). PE #3: 190.00. PE #4: 810.00.
+38.29: [Host #1] Total allocated MIPS for VM #9 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #1] MIPS for VM #9 by PEs (5 * 1000.0). PE #0: 1000.00.
+
+=============================================
+| 38.29: [Host #1] utilization is 98.00%    |
+=============================================
+
+38.29: [Host #2] Total allocated MIPS for VM #11 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #2] MIPS for VM #11 by PEs (5 * 1000.0). PE #0: 1000.00.
+38.29: [Host #2] Total allocated MIPS for VM #12 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #2] MIPS for VM #12 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+38.29: [Host #2] Total allocated MIPS for VM #13 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #2] MIPS for VM #13 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+38.29: [Host #2] Total allocated MIPS for VM #14 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #2] MIPS for VM #14 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+
+=============================================
+| 38.29: [Host #2] utilization is 80.00%    |
+=============================================
+
+38.29: [Host #3] Total allocated MIPS for VM #10 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #3] MIPS for VM #10 by PEs (5 * 1000.0). PE #0: 1000.00.
+38.29: [Host #3] Total allocated MIPS for VM #5 (Host #1) is 1.00, was requested 10.00 out of total 1000.00 (1.00%)
+38.29: [Host #3] MIPS for VM #5 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1.00.
+38.29: [Host #3] VM #5 is being migrated to Host #3
+
+=============================================
+| 38.29: [Host #3] utilization is 20.02%    |
+=============================================
+
+Energy consumption for the last time frame from 30.10 to 38.29:
+
+38.29: [Host #0] utilization at 30.10 was 100.00%, now is 100.00%
+38.29: [Host #0] energy is 958.46 W*sec
+
+38.29: [Host #1] utilization at 30.10 was 100.00%, now is 98.00%
+38.29: [Host #1] energy is 1428.11 W*sec
+
+38.29: [Host #2] utilization at 30.10 was 80.00%, now is 80.00%
+38.29: [Host #2] energy is 10351.41 W*sec
+
+38.29: [Host #3] utilization at 30.10 was 20.20%, now is 20.02%
+38.29: [Host #3] energy is 38478.59 W*sec
+
+38.29: Data center's energy is 51216.58 W*sec
+
+
+38.29: VM #5 has been allocated to the host #3
+38.29: Migration of VM #5 to Host #3 is completed
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 38.29:
+
+38.29: [Host #0] Total allocated MIPS for VM #0 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #0] MIPS for VM #0 by PEs (5 * 1000.0). PE #0: 1000.00.
+38.29: [Host #0] Total allocated MIPS for VM #1 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #0] MIPS for VM #1 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+38.29: [Host #0] Total allocated MIPS for VM #2 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #0] MIPS for VM #2 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+38.29: [Host #0] Total allocated MIPS for VM #3 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #0] MIPS for VM #3 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+38.29: [Host #0] Total allocated MIPS for VM #4 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #0] MIPS for VM #4 by PEs (5 * 1000.0). PE #3: 0.00. PE #4: 1000.00.
+
+=============================================
+| 38.29: [Host #0] utilization is 100.00%    |
+=============================================
+
+38.29: [Host #1] Total allocated MIPS for VM #6 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #1] MIPS for VM #6 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+38.29: [Host #1] Total allocated MIPS for VM #7 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #1] MIPS for VM #7 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+38.29: [Host #1] Total allocated MIPS for VM #8 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #1] MIPS for VM #8 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+38.29: [Host #1] Total allocated MIPS for VM #9 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #1] MIPS for VM #9 by PEs (5 * 1000.0). PE #0: 1000.00.
+
+=============================================
+| 38.29: [Host #1] utilization is 80.00%    |
+=============================================
+
+38.29: [Host #2] Total allocated MIPS for VM #11 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #2] MIPS for VM #11 by PEs (5 * 1000.0). PE #0: 1000.00.
+38.29: [Host #2] Total allocated MIPS for VM #12 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #2] MIPS for VM #12 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+38.29: [Host #2] Total allocated MIPS for VM #13 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #2] MIPS for VM #13 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+38.29: [Host #2] Total allocated MIPS for VM #14 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #2] MIPS for VM #14 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+
+=============================================
+| 38.29: [Host #2] utilization is 80.00%    |
+=============================================
+
+38.29: [Host #3] Total allocated MIPS for VM #10 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #3] MIPS for VM #10 by PEs (5 * 1000.0). PE #0: 1000.00.
+38.29: [Host #3] Total allocated MIPS for VM #5 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+38.29: [Host #3] MIPS for VM #5 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+
+=============================================
+| 38.29: [Host #3] utilization is 40.00%    |
+=============================================
+
+38.292: MainBroker: Cloudlet 45 received
+38.292: MainBroker: Cloudlet 46 received
+38.292: MainBroker: Cloudlet 47 received
+38.292: MainBroker: Cloudlet 48 received
+38.292: MainBroker: Cloudlet 49 received
+38.292: MainBroker: Cloudlet 50 received
+38.292: MainBroker: Cloudlet 51 received
+38.292: MainBroker: Cloudlet 52 received
+38.292: MainBroker: Cloudlet 53 received
+38.292: MainBroker: Cloudlet 54 received
+38.292: MainBroker: Cloudlet 56 received
+38.292: MainBroker: Cloudlet 57 received
+38.292: MainBroker: Cloudlet 58 received
+38.292: MainBroker: Cloudlet 59 received
+38.292: MainBroker: Cloudlet 55 received
+45.1 
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 45.10:
+
+45.10: [Host #0] Total allocated MIPS for VM #0 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #0] MIPS for VM #0 by PEs (5 * 1000.0). PE #0: 1000.00.
+45.10: [Host #0] Total allocated MIPS for VM #1 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #0] MIPS for VM #1 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+45.10: [Host #0] Total allocated MIPS for VM #2 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #0] MIPS for VM #2 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+45.10: [Host #0] Total allocated MIPS for VM #3 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #0] MIPS for VM #3 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+45.10: [Host #0] Total allocated MIPS for VM #4 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #0] MIPS for VM #4 by PEs (5 * 1000.0). PE #3: 0.00. PE #4: 1000.00.
+
+=============================================
+| 45.10: [Host #0] utilization is 100.00%    |
+=============================================
+
+45.10: [Host #1] Total allocated MIPS for VM #6 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #1] MIPS for VM #6 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+45.10: [Host #1] Total allocated MIPS for VM #7 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #1] MIPS for VM #7 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+45.10: [Host #1] Total allocated MIPS for VM #8 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #1] MIPS for VM #8 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+45.10: [Host #1] Total allocated MIPS for VM #9 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #1] MIPS for VM #9 by PEs (5 * 1000.0). PE #0: 1000.00.
+
+=============================================
+| 45.10: [Host #1] utilization is 80.00%    |
+=============================================
+
+45.10: [Host #2] Total allocated MIPS for VM #11 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #2] MIPS for VM #11 by PEs (5 * 1000.0). PE #0: 1000.00.
+45.10: [Host #2] Total allocated MIPS for VM #12 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #2] MIPS for VM #12 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+45.10: [Host #2] Total allocated MIPS for VM #13 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #2] MIPS for VM #13 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+45.10: [Host #2] Total allocated MIPS for VM #14 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #2] MIPS for VM #14 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+
+=============================================
+| 45.10: [Host #2] utilization is 80.00%    |
+=============================================
+
+45.10: [Host #3] Total allocated MIPS for VM #10 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #3] MIPS for VM #10 by PEs (5 * 1000.0). PE #0: 1000.00.
+45.10: [Host #3] Total allocated MIPS for VM #5 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #3] MIPS for VM #5 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+
+=============================================
+| 45.10: [Host #3] utilization is 40.00%    |
+=============================================
+
+Energy consumption for the last time frame from 38.29 to 45.10:
+
+45.10: [Host #0] utilization at 38.29 was 100.00%, now is 100.00%
+45.10: [Host #0] energy is 796.54 W*sec
+
+45.10: [Host #1] utilization at 38.29 was 80.00%, now is 80.00%
+45.10: [Host #1] energy is 8602.59 W*sec
+
+45.10: [Host #2] utilization at 38.29 was 80.00%, now is 80.00%
+45.10: [Host #2] energy is 8602.59 W*sec
+
+45.10: [Host #3] utilization at 38.29 was 40.00%, now is 40.00%
+45.10: [Host #3] energy is 24214.69 W*sec
+
+45.10: Data center's energy is 42216.41 W*sec
+
+
+45.10: Migration of VM #0 from Host #0 to Host #3 is started
+45.10: [Host #3] Total allocated MIPS for VM #10 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #3] MIPS for VM #10 by PEs (5 * 1000.0). PE #0: 1000.00.
+45.10: [Host #3] Total allocated MIPS for VM #5 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #3] MIPS for VM #5 by PEs (5 * 1000.0). PE #1: 990.00. PE #2: 10.00.
+45.10: [Host #3] Total allocated MIPS for VM #0 (Host #0) is 10.00, was requested 100.00 out of total 1000.00 (10.00%)
+45.10: [Host #3] MIPS for VM #0 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 10.00.
+45.10: [Host #3] VM #0 is being migrated to Host #3
+45.10: [Host #0] Total allocated MIPS for VM #0 (Host #0) is 900.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #0] MIPS for VM #0 by PEs (5 * 1000.0). PE #0: 900.00.
+45.10: [Host #0] Under allocated MIPS for VM #0: 100.00
+45.10: [Host #0] VM #0 is in migration
+45.10: [Host #0] Total allocated MIPS for VM #1 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #0] MIPS for VM #1 by PEs (5 * 1000.0). PE #0: 100.00. PE #1: 900.00.
+45.10: [Host #0] Total allocated MIPS for VM #2 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #0] MIPS for VM #2 by PEs (5 * 1000.0). PE #1: 100.00. PE #2: 900.00.
+45.10: [Host #0] Total allocated MIPS for VM #3 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #0] MIPS for VM #3 by PEs (5 * 1000.0). PE #2: 100.00. PE #3: 900.00.
+45.10: [Host #0] Total allocated MIPS for VM #4 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+45.10: [Host #0] MIPS for VM #4 by PEs (5 * 1000.0). PE #3: 100.00. PE #4: 900.00.
+45.1: MainBroker: Cloudlet 60 received
+45.1: MainBroker: Cloudlet 61 received
+45.1: MainBroker: Cloudlet 62 received
+45.1: MainBroker: Cloudlet 63 received
+45.1: MainBroker: Cloudlet 64 received
+45.1: MainBroker: Cloudlet 66 received
+45.1: MainBroker: Cloudlet 67 received
+45.1: MainBroker: Cloudlet 68 received
+45.1: MainBroker: Cloudlet 69 received
+45.1: MainBroker: Cloudlet 71 received
+45.1: MainBroker: Cloudlet 72 received
+45.1: MainBroker: Cloudlet 73 received
+45.1: MainBroker: Cloudlet 74 received
+45.1: MainBroker: Cloudlet 70 received
+45.1: MainBroker: Cloudlet 65 received
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 53.29:
+
+53.29: [Host #0] Total allocated MIPS for VM #0 (Host #0) is 810.00, was requested 900.00 out of total 1000.00 (90.00%)
+53.29: [Host #0] MIPS for VM #0 by PEs (5 * 1000.0). PE #0: 810.00.
+53.29: [Host #0] Under allocated MIPS for VM #0: 90.00
+53.29: [Host #0] VM #0 is in migration
+53.29: [Host #0] Total allocated MIPS for VM #1 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #0] MIPS for VM #1 by PEs (5 * 1000.0). PE #0: 190.00. PE #1: 810.00.
+53.29: [Host #0] Total allocated MIPS for VM #2 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #0] MIPS for VM #2 by PEs (5 * 1000.0). PE #1: 190.00. PE #2: 810.00.
+53.29: [Host #0] Total allocated MIPS for VM #3 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #0] MIPS for VM #3 by PEs (5 * 1000.0). PE #2: 190.00. PE #3: 810.00.
+53.29: [Host #0] Total allocated MIPS for VM #4 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #0] MIPS for VM #4 by PEs (5 * 1000.0). PE #3: 190.00. PE #4: 810.00.
+
+=============================================
+| 53.29: [Host #0] utilization is 98.00%    |
+=============================================
+
+53.29: [Host #1] Total allocated MIPS for VM #6 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #1] MIPS for VM #6 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+53.29: [Host #1] Total allocated MIPS for VM #7 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #1] MIPS for VM #7 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+53.29: [Host #1] Total allocated MIPS for VM #8 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #1] MIPS for VM #8 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+53.29: [Host #1] Total allocated MIPS for VM #9 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #1] MIPS for VM #9 by PEs (5 * 1000.0). PE #0: 1000.00.
+
+=============================================
+| 53.29: [Host #1] utilization is 80.00%    |
+=============================================
+
+53.29: [Host #2] Total allocated MIPS for VM #11 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #2] MIPS for VM #11 by PEs (5 * 1000.0). PE #0: 1000.00.
+53.29: [Host #2] Total allocated MIPS for VM #12 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #2] MIPS for VM #12 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+53.29: [Host #2] Total allocated MIPS for VM #13 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #2] MIPS for VM #13 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+53.29: [Host #2] Total allocated MIPS for VM #14 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #2] MIPS for VM #14 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+
+=============================================
+| 53.29: [Host #2] utilization is 80.00%    |
+=============================================
+
+53.29: [Host #3] Total allocated MIPS for VM #10 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #3] MIPS for VM #10 by PEs (5 * 1000.0). PE #0: 1000.00.
+53.29: [Host #3] Total allocated MIPS for VM #5 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #3] MIPS for VM #5 by PEs (5 * 1000.0). PE #1: 999.00. PE #2: 1.00.
+53.29: [Host #3] Total allocated MIPS for VM #0 (Host #0) is 1.00, was requested 10.00 out of total 1000.00 (1.00%)
+53.29: [Host #3] MIPS for VM #0 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1.00.
+53.29: [Host #3] VM #0 is being migrated to Host #3
+
+=============================================
+| 53.29: [Host #3] utilization is 40.02%    |
+=============================================
+
+Energy consumption for the last time frame from 45.10 to 53.29:
+
+53.29: [Host #0] utilization at 45.10 was 100.00%, now is 98.00%
+53.29: [Host #0] energy is 1428.11 W*sec
+
+53.29: [Host #1] utilization at 45.10 was 80.00%, now is 80.00%
+53.29: [Host #1] energy is 10351.41 W*sec
+
+53.29: [Host #2] utilization at 45.10 was 80.00%, now is 80.00%
+53.29: [Host #2] energy is 10351.41 W*sec
+
+53.29: [Host #3] utilization at 45.10 was 40.20%, now is 40.02%
+53.29: [Host #3] energy is 29085.64 W*sec
+
+53.29: Data center's energy is 51216.58 W*sec
+
+
+53.29: VM #0 has been allocated to the host #3
+53.29: Migration of VM #0 to Host #3 is completed
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 53.29:
+
+53.29: [Host #0] Total allocated MIPS for VM #1 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #0] MIPS for VM #1 by PEs (5 * 1000.0). PE #0: 1000.00.
+53.29: [Host #0] Total allocated MIPS for VM #2 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #0] MIPS for VM #2 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+53.29: [Host #0] Total allocated MIPS for VM #3 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #0] MIPS for VM #3 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+53.29: [Host #0] Total allocated MIPS for VM #4 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #0] MIPS for VM #4 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+
+=============================================
+| 53.29: [Host #0] utilization is 80.00%    |
+=============================================
+
+53.29: [Host #1] Total allocated MIPS for VM #6 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #1] MIPS for VM #6 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+53.29: [Host #1] Total allocated MIPS for VM #7 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #1] MIPS for VM #7 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+53.29: [Host #1] Total allocated MIPS for VM #8 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #1] MIPS for VM #8 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+53.29: [Host #1] Total allocated MIPS for VM #9 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #1] MIPS for VM #9 by PEs (5 * 1000.0). PE #0: 1000.00.
+
+=============================================
+| 53.29: [Host #1] utilization is 80.00%    |
+=============================================
+
+53.29: [Host #2] Total allocated MIPS for VM #11 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #2] MIPS for VM #11 by PEs (5 * 1000.0). PE #0: 1000.00.
+53.29: [Host #2] Total allocated MIPS for VM #12 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #2] MIPS for VM #12 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+53.29: [Host #2] Total allocated MIPS for VM #13 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #2] MIPS for VM #13 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+53.29: [Host #2] Total allocated MIPS for VM #14 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #2] MIPS for VM #14 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+
+=============================================
+| 53.29: [Host #2] utilization is 80.00%    |
+=============================================
+
+53.29: [Host #3] Total allocated MIPS for VM #10 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #3] MIPS for VM #10 by PEs (5 * 1000.0). PE #0: 1000.00.
+53.29: [Host #3] Total allocated MIPS for VM #5 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #3] MIPS for VM #5 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+53.29: [Host #3] Total allocated MIPS for VM #0 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+53.29: [Host #3] MIPS for VM #0 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+
+=============================================
+| 53.29: [Host #3] utilization is 60.00%    |
+=============================================
+
+53.292: MainBroker: Cloudlet 75 received
+53.292: MainBroker: Cloudlet 76 received
+53.292: MainBroker: Cloudlet 77 received
+53.292: MainBroker: Cloudlet 78 received
+53.292: MainBroker: Cloudlet 79 received
+53.292: MainBroker: Cloudlet 81 received
+53.292: MainBroker: Cloudlet 82 received
+53.292: MainBroker: Cloudlet 83 received
+53.292: MainBroker: Cloudlet 84 received
+53.292: MainBroker: Cloudlet 86 received
+53.292: MainBroker: Cloudlet 87 received
+53.292: MainBroker: Cloudlet 88 received
+53.292: MainBroker: Cloudlet 89 received
+53.292: MainBroker: Cloudlet 85 received
+53.292: MainBroker: Cloudlet 80 received
+60.1 
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 60.10:
+
+60.10: [Host #0] Total allocated MIPS for VM #1 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+60.10: [Host #0] MIPS for VM #1 by PEs (5 * 1000.0). PE #0: 1000.00.
+60.10: [Host #0] Total allocated MIPS for VM #2 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+60.10: [Host #0] MIPS for VM #2 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+60.10: [Host #0] Total allocated MIPS for VM #3 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+60.10: [Host #0] MIPS for VM #3 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+60.10: [Host #0] Total allocated MIPS for VM #4 (Host #0) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+60.10: [Host #0] MIPS for VM #4 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+
+=============================================
+| 60.10: [Host #0] utilization is 80.00%    |
+=============================================
+
+60.10: [Host #1] Total allocated MIPS for VM #6 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+60.10: [Host #1] MIPS for VM #6 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+60.10: [Host #1] Total allocated MIPS for VM #7 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+60.10: [Host #1] MIPS for VM #7 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+60.10: [Host #1] Total allocated MIPS for VM #8 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+60.10: [Host #1] MIPS for VM #8 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+60.10: [Host #1] Total allocated MIPS for VM #9 (Host #1) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+60.10: [Host #1] MIPS for VM #9 by PEs (5 * 1000.0). PE #0: 1000.00.
+
+=============================================
+| 60.10: [Host #1] utilization is 80.00%    |
+=============================================
+
+60.10: [Host #2] Total allocated MIPS for VM #11 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+60.10: [Host #2] MIPS for VM #11 by PEs (5 * 1000.0). PE #0: 1000.00.
+60.10: [Host #2] Total allocated MIPS for VM #12 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+60.10: [Host #2] MIPS for VM #12 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+60.10: [Host #2] Total allocated MIPS for VM #13 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+60.10: [Host #2] MIPS for VM #13 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+60.10: [Host #2] Total allocated MIPS for VM #14 (Host #2) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+60.10: [Host #2] MIPS for VM #14 by PEs (5 * 1000.0). PE #2: 0.00. PE #3: 1000.00.
+
+=============================================
+| 60.10: [Host #2] utilization is 80.00%    |
+=============================================
+
+60.10: [Host #3] Total allocated MIPS for VM #10 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+60.10: [Host #3] MIPS for VM #10 by PEs (5 * 1000.0). PE #0: 1000.00.
+60.10: [Host #3] Total allocated MIPS for VM #5 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+60.10: [Host #3] MIPS for VM #5 by PEs (5 * 1000.0). PE #1: 0.00. PE #2: 1000.00.
+60.10: [Host #3] Total allocated MIPS for VM #0 (Host #3) is 1000.00, was requested 1000.00 out of total 1000.00 (100.00%)
+60.10: [Host #3] MIPS for VM #0 by PEs (5 * 1000.0). PE #0: 0.00. PE #1: 1000.00.
+
+=============================================
+| 60.10: [Host #3] utilization is 60.00%    |
+=============================================
+
+Energy consumption for the last time frame from 53.29 to 60.10:
+
+60.10: [Host #0] utilization at 53.29 was 80.00%, now is 80.00%
+60.10: [Host #0] energy is 8602.59 W*sec
+
+60.10: [Host #1] utilization at 53.29 was 80.00%, now is 80.00%
+60.10: [Host #1] energy is 8602.59 W*sec
+
+60.10: [Host #2] utilization at 53.29 was 80.00%, now is 80.00%
+60.10: [Host #2] energy is 8602.59 W*sec
+
+60.10: [Host #3] utilization at 53.29 was 60.00%, now is 60.00%
+60.10: [Host #3] energy is 16408.64 W*sec
+
+60.10: Data center's energy is 42216.41 W*sec
+
+
+60.1: MainBroker: Cloudlet 91 received
+60.1: MainBroker: Cloudlet 92 received
+60.1: MainBroker: Cloudlet 93 received
+60.1: MainBroker: Cloudlet 94 received
+60.1: MainBroker: Cloudlet 96 received
+60.1: MainBroker: Cloudlet 97 received
+60.1: MainBroker: Cloudlet 98 received
+60.1: MainBroker: Cloudlet 99 received
+60.1: MainBroker: Cloudlet 95 received
+60.1: MainBroker: Cloudlet 90 received
+60.1: MainBroker: All Cloudlets executed. Finishing...
+60.1: MainBroker: Destroying VM #0
+60.1: MainBroker: Destroying VM #1
+60.1: MainBroker: Destroying VM #2
+60.1: MainBroker: Destroying VM #3
+60.1: MainBroker: Destroying VM #4
+60.1: MainBroker: Destroying VM #5
+60.1: MainBroker: Destroying VM #6
+60.1: MainBroker: Destroying VM #7
+60.1: MainBroker: Destroying VM #8
+60.1: MainBroker: Destroying VM #9
+60.1: MainBroker: Destroying VM #10
+60.1: MainBroker: Destroying VM #11
+60.1: MainBroker: Destroying VM #12
+60.1: MainBroker: Destroying VM #13
+60.1: MainBroker: Destroying VM #14
+MainBroker is shutting down...
+Simulation: No more future events
+CloudInformationService: Notify all CloudSim entities for shutting down.
+DataCenter_0 is shutting down...
+DataCenter_1 is shutting down...
+MainBroker is shutting down...
+Simulation completed.
+Simulation completed.
+Received 100 cloudlets
+
+========== OUTPUT ==========
+Cloudlet ID    STATUS    Data center ID    VM ID        Time    Start Time    Finish Time
+    0        SUCCESS        2            0            15        0.1            15.1
+    1        SUCCESS        2            1            15        0.1            15.1
+    2        SUCCESS        2            2            15        0.1            15.1
+    3        SUCCESS        2            3            15        0.1            15.1
+    4        SUCCESS        2            4            15        0.1            15.1
+    5        SUCCESS        2            5            15        0.1            15.1
+    6        SUCCESS        2            6            15        0.1            15.1
+    7        SUCCESS        2            7            15        0.1            15.1
+    8        SUCCESS        2            8            15        0.1            15.1
+    9        SUCCESS        2            9            15        0.1            15.1
+    10        SUCCESS        2            10            15        0.1            15.1
+    11        SUCCESS        2            11            15        0.1            15.1
+    12        SUCCESS        2            12            15        0.1            15.1
+    13        SUCCESS        2            13            15        0.1            15.1
+    14        SUCCESS        2            14            15        0.1            15.1
+    15        SUCCESS        2            0            8.19        15.1            23.29
+    16        SUCCESS        2            1            8.19        15.1            23.29
+    17        SUCCESS        2            2            8.19        15.1            23.29
+    18        SUCCESS        2            3            8.19        15.1            23.29
+    19        SUCCESS        2            4            8.19        15.1            23.29
+    20        SUCCESS        2            5            8.19        15.1            23.29
+    21        SUCCESS        2            6            8.19        15.1            23.29
+    22        SUCCESS        2            7            8.19        15.1            23.29
+    23        SUCCESS        2            8            8.19        15.1            23.29
+    24        SUCCESS        2            9            8.19        15.1            23.29
+    25        SUCCESS        2            10            8.19        15.1            23.29
+    26        SUCCESS        2            11            8.19        15.1            23.29
+    27        SUCCESS        2            12            8.19        15.1            23.29
+    28        SUCCESS        2            13            8.19        15.1            23.29
+    29        SUCCESS        2            14            8.19        15.1            23.29
+    30        SUCCESS        2            0            6.81        23.29            30.1
+    31        SUCCESS        2            1            6.81        23.29            30.1
+    32        SUCCESS        2            2            6.81        23.29            30.1
+    33        SUCCESS        2            3            6.81        23.29            30.1
+    34        SUCCESS        2            4            6.81        23.29            30.1
+    35        SUCCESS        2            5            6.81        23.29            30.1
+    36        SUCCESS        2            6            6.81        23.29            30.1
+    37        SUCCESS        2            7            6.81        23.29            30.1
+    38        SUCCESS        2            8            6.81        23.29            30.1
+    39        SUCCESS        2            9            6.81        23.29            30.1
+    41        SUCCESS        2            11            6.81        23.29            30.1
+    42        SUCCESS        2            12            6.81        23.29            30.1
+    43        SUCCESS        2            13            6.81        23.29            30.1
+    44        SUCCESS        2            14            6.81        23.29            30.1
+    40        SUCCESS        2            10            6.81        23.29            30.1
+    45        SUCCESS        2            0            8.19        30.1            38.29
+    46        SUCCESS        2            1            8.19        30.1            38.29
+    47        SUCCESS        2            2            8.19        30.1            38.29
+    48        SUCCESS        2            3            8.19        30.1            38.29
+    49        SUCCESS        2            4            8.19        30.1            38.29
+    50        SUCCESS        2            5            8.19        30.1            38.29
+    51        SUCCESS        2            6            8.19        30.1            38.29
+    52        SUCCESS        2            7            8.19        30.1            38.29
+    53        SUCCESS        2            8            8.19        30.1            38.29
+    54        SUCCESS        2            9            8.19        30.1            38.29
+    56        SUCCESS        2            11            8.19        30.1            38.29
+    57        SUCCESS        2            12            8.19        30.1            38.29
+    58        SUCCESS        2            13            8.19        30.1            38.29
+    59        SUCCESS        2            14            8.19        30.1            38.29
+    55        SUCCESS        2            10            8.19        30.1            38.29
+    60        SUCCESS        2            0            6.81        38.29            45.1
+    61        SUCCESS        2            1            6.81        38.29            45.1
+    62        SUCCESS        2            2            6.81        38.29            45.1
+    63        SUCCESS        2            3            6.81        38.29            45.1
+    64        SUCCESS        2            4            6.81        38.29            45.1
+    66        SUCCESS        2            6            6.81        38.29            45.1
+    67        SUCCESS        2            7            6.81        38.29            45.1
+    68        SUCCESS        2            8            6.81        38.29            45.1
+    69        SUCCESS        2            9            6.81        38.29            45.1
+    71        SUCCESS        2            11            6.81        38.29            45.1
+    72        SUCCESS        2            12            6.81        38.29            45.1
+    73        SUCCESS        2            13            6.81        38.29            45.1
+    74        SUCCESS        2            14            6.81        38.29            45.1
+    70        SUCCESS        2            10            6.81        38.29            45.1
+    65        SUCCESS        2            5            6.81        38.29            45.1
+    75        SUCCESS        2            0            8.19        45.1            53.29
+    76        SUCCESS        2            1            8.19        45.1            53.29
+    77        SUCCESS        2            2            8.19        45.1            53.29
+    78        SUCCESS        2            3            8.19        45.1            53.29
+    79        SUCCESS        2            4            8.19        45.1            53.29
+    81        SUCCESS        2            6            8.19        45.1            53.29
+    82        SUCCESS        2            7            8.19        45.1            53.29
+    83        SUCCESS        2            8            8.19        45.1            53.29
+    84        SUCCESS        2            9            8.19        45.1            53.29
+    86        SUCCESS        2            11            8.19        45.1            53.29
+    87        SUCCESS        2            12            8.19        45.1            53.29
+    88        SUCCESS        2            13            8.19        45.1            53.29
+    89        SUCCESS        2            14            8.19        45.1            53.29
+    85        SUCCESS        2            10            8.19        45.1            53.29
+    80        SUCCESS        2            5            8.19        45.1            53.29
+    91        SUCCESS        2            1            6.81        53.29            60.1
+    92        SUCCESS        2            2            6.81        53.29            60.1
+    93        SUCCESS        2            3            6.81        53.29            60.1
+    94        SUCCESS        2            4            6.81        53.29            60.1
+    96        SUCCESS        2            6            6.81        53.29            60.1
+    97        SUCCESS        2            7            6.81        53.29            60.1
+    98        SUCCESS        2            8            6.81        53.29            60.1
+    99        SUCCESS        2            9            6.81        53.29            60.1
+    95        SUCCESS        2            5            6.81        53.29            60.1
+    90        SUCCESS        2            0            6.81        53.29            60.1
+
+Total Energy Consumption: 0.08 kWh
+Number of VM migrations: DataCenter 0 = 3, DataCenter 1 = 0
+Average response time: 8.659600000000001
+
+The example has finished successfully !
