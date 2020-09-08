@@ -1,6 +1,6 @@
 # Host Utilization & Energy Calculation Using Cloudsim 
 
-In this repository I implemented an algorith where VMs are migrated to over utilized host and transferred to under utilized host which results in quicker response time.
+In this repository I implemented an algorith where VMs are migrated from over utilized host and transferred to under utilized host which results in quicker response time.
 
 ```
 A host's over utilization ratio = 85% and 
